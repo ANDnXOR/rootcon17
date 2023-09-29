@@ -1,0 +1,30 @@
+REM This will open a great video Gleeborlgarz thinks you should watch all the way through!
+REM                    ____ 
+REM                   /    \ 
+REM                  /      \ 
+REM         ________-        -________ 
+REM        /                          \ 
+REM      _-         ROOTCON 17         -_ 
+REM     ( oo    |      2023      |    oo ) 
+REM      \  o    |_            _|    o  / 
+REM       \____O___|__________|___O____/ 
+REM         \       ___________       / 
+REM          -_    (           )    _- 
+REM            \    -----------    / 
+REM             |-|-|-|-|-|-|-|-|-| 
+REM  
+REM                \___________/ 
+REM                  \_______/ 
+REM                   \_____/ 
+REM                      O/ 
+REM                     /# 
+REM                      ^ 
+REM                     / \ 
+REM 
+LED_R
+DELAY 840
+CTRL ALT t
+DELAY 501
+STRING xdg-open https://youtu.be/HIcSWuKMwOw
+ENTER
+LED_G
